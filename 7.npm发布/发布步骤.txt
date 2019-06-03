@@ -1,0 +1,18 @@
+1.所有npm都是发布在 https://www.npmjs.com/ 上面的，所以在发布之前，
+需要到 npmjs 上去注册一个账号，才有权限发布自己定义模块。
+2.package.json 文件，就是告诉 npmjs.com 这个模块的相关信息。
+或者用 npm npm init命令来创建package.json 文件
+3.接着就是要发布了，在发布之前用如下命令登陆 前面 npmjs.com 步骤时注册的账号和密码
+  npm adduser
+
+
+
+
+
+
+
+
+
+
+
+

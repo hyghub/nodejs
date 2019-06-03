@@ -1,0 +1,14 @@
+{
+  "name": "hygnpm",
+  "version": "1.0.3",
+  "description": "npm of hygnpm",
+  "main": "a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hygnpm"
+  ],
+  "author": "hygnpm",
+  "license": "ISC"
+}
